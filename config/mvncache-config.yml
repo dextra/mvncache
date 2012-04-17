@@ -1,0 +1,23 @@
+development:
+  cache_dir: /tmp/mvncache
+
+  proxy_host: 172.16.129.1
+  proxy_port: 3128
+  proxy_user: 
+  proxy_pass: 
+
+test:
+  cache_dir: /tmp/mvncache
+
+  proxy_host: 172.16.129.1
+  proxy_port: 3128
+  proxy_user: 
+  proxy_pass: 
+
+production:
+  cache_dir: /tmp/mvncache
+
+  proxy_host: 172.16.129.1
+  proxy_port: 3128
+  proxy_user: 
+  proxy_pass: 
